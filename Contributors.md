@@ -23,6 +23,7 @@
 - [kurt](https://github.com/KurtKudrat)
 - [Divyesh Jain](https://github.com/BlitW0)
 - [Clayton Matulich](https://github.com/ClaytonMatulich)
+- [Tiago Costa](https://github.com/macacolouco46)
 - [Stacy Meichle](https://github.com/smeichle)
 - [prince1508](http://github.com/prince1508)
 - [HRK_Codes](https://github.com/HRK31)
