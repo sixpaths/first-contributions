@@ -1252,6 +1252,7 @@
 - Karen Galvez (https://github.com/kygalvez)
 - [Chris Drury](https://github.com/crdrury)
 - [Eron Begiqi](https://github.com/eronbegiqi)
+- [Reet Roy](https://github.com/sHadowKing9999)
 - [Anirban Dey](https://github.com/anirbandey303)
 - [Jose Matundan](https://github.com/iskomtdev)
 - [Hugo Bujan Prevot](https://github.com/Drithyl)
