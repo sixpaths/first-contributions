@@ -15793,6 +15793,7 @@
 - [rick lacerte](https://github.com/ricklacerte)
 - [Namolab](https://github.com/namolab)
 - [nickfiggins](https://github.com/nickfiggins)
+- [Angelo De Asis] (https://github.com/EpicXKillz)
 - [Roger T] (https://github.com/RogerT22)
 - [Asad Butt] (https://github.com/asdal)
 - [Nihal Pandey](https://github.com/stark019)
