@@ -188,6 +188,7 @@
 - [Roberson Lubin](https://github.com/rlubingsu)
 - Arielle Jasmine Michelle Irada
 - [Ajay Kumar](https://github.com/ajaykumar97)
+- [Ankit Ahuja] (https://github.com/sixpaths)
 - [Erika Stott](https://github.com/estott10)
 - [Pako Gonzalez](https://github.com/pako-gonzalez)
 - [Charles Obekpa](https://github.com/kaizem24)
