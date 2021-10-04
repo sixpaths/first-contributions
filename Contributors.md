@@ -150,6 +150,7 @@
 - [Harper G](https://github.com/harpercodes)
 - [Lok Chan](https://github.com/0903lokchan)
 - [Edmund Kpodogui](https://github.com/dannkkie)
+- [Benjamin Tessem](https://github.com/benjamin-tessem)
 - Anthony Luttrell
 - Glen Edwards
 - Christian Torbica
